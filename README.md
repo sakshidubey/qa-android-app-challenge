@@ -38,9 +38,8 @@ For more, please refer the above link.
     
 ## Framework Setup
 
-    1. git clone 
-	 2. git checkout master
-	 3. git pull
+    1. git clone git@github.com:sakshidubey/qa-android-app-challenge.git
+    2. git pull
     
 ## Running Tests
 
