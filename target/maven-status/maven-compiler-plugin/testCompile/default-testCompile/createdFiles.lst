@@ -1,0 +1,5 @@
+testrunner/Runner.class
+stepdefs/Hooks.class
+stepdefs/LoginStepDefs.class
+stepdefs/ContentStepDefs.class
+stepdefs/CommonStepDefs.class
